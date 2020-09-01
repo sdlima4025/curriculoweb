@@ -1,4 +1,2 @@
-Meu Primeiro Sistema
-Mudança na versão do Sys
-Altração de Arquivos
+Sistema de Criação Curriculo Web, by: Sérgio Lima
 
